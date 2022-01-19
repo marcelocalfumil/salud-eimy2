@@ -1,0 +1,23 @@
+.banner{
+    margin-top: 50px;
+    position: relative;
+    .banner img{
+        width: 50%;
+        height: 50%;
+        margin-left: 20%;
+        
+        
+        .banner h2{
+    
+            color: rgb(41, 39, 39);
+            font: 3em sans-serif bold;
+            .banner p{
+                font-size: 2em sans-serif;
+               
+                position: absolute;
+                color: black;
+            
+            }
+        }
+    }
+}

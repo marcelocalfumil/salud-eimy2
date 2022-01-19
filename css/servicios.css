@@ -32,7 +32,7 @@ p{
     
 }
 .redes{
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     color: darkblue;
 }
@@ -40,16 +40,16 @@ footer .contenedor{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
 
 }
 footer .contenedor img{
     display: inline-block;
-    width: 50px;
+    width: 35px;
     justify-content: center;
 }
 footer .contenedor h3{
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     font-family: cursive;
     color: rgb(31, 2, 2);

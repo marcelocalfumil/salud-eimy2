@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color: rgba(36, 205, 235, 0.788);
+    header{
+    
+        margin: 5px;
+        padding: 10px;
+         display: grid;
+         grid-template-rows: 60% 40%;
+         background: blue;
+        
+         align-items:center;
+         justify-items:center;
+         
+         .contenedor{
+            width: 98%;
+            margin: auto;
+        
+        
+            
+            h1{
+                float: left;
+                font-size: 3em;
+                color: #fff;
+                text-align: justify;
+                
+                .icon-corazon{
+                    width: 70px;
+                    height: 70px;
+                    float: left;
+                    
+                    
+                
+                    header.contenedor{
+                        display: table;
+                    
+                        header label{
+                            float: right;
+                            font-size: 28px;
+                            margin: 6px 0;
+                            cursor: pointer;
+                            section{
+                                width: 100%;
+                                margin-bottom: 30px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        } 
+}
